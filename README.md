@@ -1,1 +1,1 @@
-# computational-physics.github.io
+# Computational Physics Group @ Yachay Tech
